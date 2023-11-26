@@ -13,7 +13,7 @@ N/A
 
 Any details about the services offered are below by scrolling down the page and just access the necessary service by clicking the link at the top of the page.
 
-[![website screenshot)](assets/images/127.0.0.1_5500_horiseon-code-refactor_index.html.png)
+[![website screenshot)](assets/images/127.0.0.1_5500_index.html.png)
 
 
 ## Credits
