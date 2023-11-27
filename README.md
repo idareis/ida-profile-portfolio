@@ -16,6 +16,8 @@ Deployed URL: https://idareis.github.io/ida-profile-portfolio/
 
 - It is also possible to access it on smaller screens, the functionality will still be the same.
 
+![(website screenshot)](assets/images/idareis.github.io_ida-profile-portfolio_.png)
+
 
 
 ## Credits
