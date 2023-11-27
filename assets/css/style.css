@@ -13,6 +13,7 @@ body {
   line-height: 1.5;
 }
 
+  /* navigation bar*/
 .navigation{
   display: flex;
   justify-content: space-around;
@@ -28,6 +29,7 @@ a:hover{
   color: #7E4857;
 }
 
+/*hero banner*/
 .hero-banner{
   background-image:  linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/yusuf-onuk-pGpbccZU3vk-unsplash.jpg");
   height: 50%;
@@ -57,6 +59,7 @@ a:hover{
   top: 73%;
 }
 
+/*profile picture*/
 .pro-pic{
 float: left;
 height: 350px;
@@ -64,6 +67,7 @@ width: 350px;
 padding: 3em;
 }
 
+/*self-introduction*/
 #pic-about h2{
   display: block;
   padding: 2em;
@@ -77,6 +81,7 @@ padding: 3em;
   font-weight: 500;
 }
 
+/*work section*/
 .main-section h2{
   display: block;
   padding: 2em;
@@ -84,8 +89,9 @@ padding: 3em;
   text-align: center;
 }
 
+/*grid*/
 #works{
-  margin: 0px 5%;
+  margin: 0px 15%;
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-rows: 300px 200px 200px;
@@ -99,7 +105,7 @@ padding: 3em;
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
-  margin: 5px;
+  margin: 7px;
   cursor: pointer;
   display: grid;
   align-content: end;
@@ -133,19 +139,20 @@ padding: 3em;
 #genshinDev{
   grid-area: genshinDev;
   background-image: url(../images/genshin.dev_.png);
-}
+} /*open source*/
 
 #paimonMoe{
   grid-area: paimonMoe;
   background-image: url(../images/paimon.moe_.png);
-}
+}/*open source*/
 
 #unfinishedProject{
   grid-area: unfinishedProject;
   background-image: url(../images/02-portfolio-1.jpg);
 }
+/*grid*/
 
-
+/*contacts*/
 .page-section-contact h2{
   display: block;
   padding: 2em;
@@ -162,13 +169,14 @@ align-content: center;
 margin-bottom: 3em;
 }
 
+/*footer*/
 .footer{
   text-align: center;
   margin: 1em;
   padding: 1em;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
 }
 
 @media only screen and (max-width: 768px) {
