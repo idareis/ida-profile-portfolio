@@ -9,8 +9,8 @@ A showcase of my skills and works through a website learned through other course
 Deployed URL: https://idareis.github.io/ida-profile-portfolio/
 
 - By clicking on each option in the navigation bar, it will take you directly to the section selected.
-- Clicking on each image of the Work section will take you to the deployed website and projects in the making will take you to my gitHub.
-- The icons in the Contact Me will take you to my respective profiles in each website (with the exception of the Gmail one which will take to my gitHub)
+- Clicking on each image of the Work section will take you to the deployed website and projects in the making will take you to my GitHub.
+- The icons in the Contact Me will take you to my respective profiles on each website (with the exception of the Gmail one which will take you to my GitHub)
 
 ![website screenshot)](assets/images/127.0.0.1_5500_index.html.png)
 
@@ -24,13 +24,13 @@ Deployed URL: https://idareis.github.io/ida-profile-portfolio/
 
 Photo by <a href="https://unsplash.com/@onkysf?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Yusuf Onuk</a> on <a href="https://unsplash.com/photos/a-group-of-sunflowers-pGpbccZU3vk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
 
-Partial guidance with the code through the portfolio of <a href="https://github.com/NicoleSanG">Nicole Santamaría</a>.
+Partial guidance with the grid and about sections of code through the portfolio of <a href="https://github.com/NicoleSanG">Nicole Santamaría</a>.
 
 Credits to <a href="https://github.com/Natalattef">Natalattef</a> for the collaboration for the Cheeky Choc website.
 
-Credits to <a href="https://github.com/MadeBaruna">MadeBaruna</a> and <a href="https://github.com/NurMarvin">Marvin Witt</a> for images and links provided for the open source APIs/applications.
+Credits to <a href="https://github.com/MadeBaruna">MadeBaruna</a> and <a href="https://github.com/NurMarvin">Marvin Witt</a> for images and links provided for the open source APIs/applications of Paimon.moe and GenshinDev, respectively.
   
-  Icons by <a target="_blank" href="https://icons8.com">Icons8</a>.
+Icons by <a target="_blank" href="https://icons8.com">Icons8</a>.
   
 
 ## License
