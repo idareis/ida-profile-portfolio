@@ -24,7 +24,7 @@ Deployed URL: https://idareis.github.io/ida-profile-portfolio/
 
 Photo by <a href="https://unsplash.com/@onkysf?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Yusuf Onuk</a> on <a href="https://unsplash.com/photos/a-group-of-sunflowers-pGpbccZU3vk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
 
-Partial guidance with the grid and about sections of code through the portfolio of <a href="https://github.com/NicoleSanG">Nicole Santamaría</a>.
+Partial guidance with the grid and About Me sections of code through the portfolio of <a href="https://github.com/NicoleSanG">Nicole Santamaría</a>.
 
 Credits to <a href="https://github.com/Natalattef">Natalattef</a> for the collaboration for the Cheeky Choc website.
 
