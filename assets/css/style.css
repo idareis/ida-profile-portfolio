@@ -184,4 +184,14 @@ margin-bottom: 3em;
     font-size: 25px;
     top: 50%;
   }
+
+  .heading {
+    position: relative;
+    background-color: #571215;
+    padding: 10px;
+    height: 40px;
+    color: #f2eaf8;
+    font-size: 14px;
+    font-weight: 600;
+  }
 }
